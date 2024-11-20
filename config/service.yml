@@ -1,0 +1,19 @@
+environment: ${ENVIRONMENT:-dev}
+sentryDsn: ${SENTRY_DSN:-}
+
+swagger:
+  resourcePackage: com.companyname.template.resources
+
+logging:
+  appenders:
+    - type: console
+      layout:
+        type: json
+
+server:
+  enableVirtualThreads: true
+  requestLog:
+    appenders:
+      - type: console
+        layout:
+          type: access-json
