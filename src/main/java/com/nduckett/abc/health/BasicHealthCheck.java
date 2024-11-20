@@ -1,4 +1,4 @@
-package com.companyname.template.health;
+package com.nduckett.abc.health;
 
 import com.google.inject.Singleton;
 import io.sentry.Sentry;

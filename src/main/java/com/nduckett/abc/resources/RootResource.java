@@ -1,4 +1,4 @@
-package com.companyname.template.resources;
+package com.nduckett.abc.resources;
 
 import jakarta.ws.rs.Consumes;
 import jakarta.ws.rs.GET;

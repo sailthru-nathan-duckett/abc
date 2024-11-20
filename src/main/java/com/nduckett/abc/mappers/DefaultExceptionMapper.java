@@ -1,4 +1,4 @@
-package com.companyname.template.mappers;
+package com.nduckett.abc.mappers;
 
 import io.sentry.Sentry;
 import jakarta.ws.rs.core.MediaType;

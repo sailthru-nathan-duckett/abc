@@ -1,4 +1,4 @@
-package com.companyname.template;
+package com.nduckett.abc;
 
 import io.dropwizard.configuration.EnvironmentVariableSubstitutor;
 import io.dropwizard.configuration.SubstitutingSourceProvider;
